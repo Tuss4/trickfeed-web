@@ -1,0 +1,187 @@
+{
+  "count": 46,
+  "next": "http://localhost:5000/v1/videos?page=2",
+  "previous": null,
+  "results": [
+    {
+      "id": 92,
+      "video_url": "https://www.youtube.com/watch?v=Obg41fq7DUg",
+      "video_type": "YT",
+      "title": "How to Parkour Roll and Dive Roll Tutorial [Beginner Parkour/Freerunning Tutorial]",
+      "video_id": "Obg41fq7DUg",
+      "thumbnail_url": "https://i.ytimg.com/vi/Obg41fq7DUg/hqdefault.jpg",
+      "date_added": "2015-09-08"
+    },
+    {
+      "id": 93,
+      "video_url": "https://www.youtube.com/watch?v=YC4cmbPpWKc",
+      "video_type": "YT",
+      "title": "martial arts competition  | (361) 232-5778 | Corpus Christi TX |",
+      "video_id": "YC4cmbPpWKc",
+      "thumbnail_url": "https://i.ytimg.com/vi/YC4cmbPpWKc/hqdefault.jpg",
+      "date_added": "2015-09-08"
+    },
+    {
+      "id": 91,
+      "video_url": "https://www.youtube.com/watch?v=PEn7e9OGuoo",
+      "video_type": "YT",
+      "title": "HP3 9-5-15 Matrix Session",
+      "video_id": "PEn7e9OGuoo",
+      "thumbnail_url": "https://i.ytimg.com/vi/PEn7e9OGuoo/hqdefault.jpg",
+      "date_added": "2015-09-08"
+    },
+    {
+      "id": 90,
+      "video_url": "https://www.youtube.com/watch?v=5rdldizHKLs",
+      "video_type": "YT",
+      "title": "Bo Staff Training: The Bo Staff Kick Tutorial | Tricks & Tricking For Competition",
+      "video_id": "5rdldizHKLs",
+      "thumbnail_url": "https://i.ytimg.com/vi/5rdldizHKLs/hqdefault.jpg",
+      "date_added": "2015-09-08"
+    },
+    {
+      "id": 85,
+      "video_url": "https://www.youtube.com/watch?v=vTBYQ5wbrn4",
+      "video_type": "YT",
+      "title": "martial arts definition  | (361) 232-5778 | Corpus Christi TX |",
+      "video_id": "vTBYQ5wbrn4",
+      "thumbnail_url": "https://i.ytimg.com/vi/vTBYQ5wbrn4/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 89,
+      "video_url": "https://www.youtube.com/watch?v=AzwE8fOTYF4",
+      "video_type": "YT",
+      "title": "Logan Garments Tricking 2015 - Ricardo Nugent",
+      "video_id": "AzwE8fOTYF4",
+      "thumbnail_url": "https://i.ytimg.com/vi/AzwE8fOTYF4/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 87,
+      "video_url": "https://www.youtube.com/watch?v=-pd5cUi3vko",
+      "video_type": "YT",
+      "title": "Japan Tricking Battle 2015. Top ten rounds and random moments. Battle of Powerarts.",
+      "video_id": "-pd5cUi3vko",
+      "thumbnail_url": "https://i.ytimg.com/vi/-pd5cUi3vko/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 81,
+      "video_url": "https://www.youtube.com/watch?v=QDHxZlMrCK0",
+      "video_type": "YT",
+      "title": "Daniel San - Kick Sampler Summer 2015 天狗Trickz Martial Arts Tricking Celle",
+      "video_id": "QDHxZlMrCK0",
+      "thumbnail_url": "https://i.ytimg.com/vi/QDHxZlMrCK0/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 83,
+      "video_url": "https://www.youtube.com/watch?v=XQXAElo9GyM",
+      "video_type": "YT",
+      "title": "Anis Cheurfa Tricking 2015",
+      "video_id": "XQXAElo9GyM",
+      "thumbnail_url": "https://i.ytimg.com/vi/XQXAElo9GyM/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 82,
+      "video_url": "https://www.youtube.com/watch?v=xqcSXvkgmGI",
+      "video_type": "YT",
+      "title": "EXTREME Martial Arts - Freestyle Weapons - Kicks and Tricking [HD]",
+      "video_id": "xqcSXvkgmGI",
+      "thumbnail_url": "https://i.ytimg.com/vi/xqcSXvkgmGI/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 78,
+      "video_url": "https://www.youtube.com/watch?v=6uW-7itDolA",
+      "video_type": "YT",
+      "title": "Swinging things",
+      "video_id": "6uW-7itDolA",
+      "thumbnail_url": "https://i.ytimg.com/vi/6uW-7itDolA/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 86,
+      "video_url": "https://www.youtube.com/watch?v=b50pdUxC8dw",
+      "video_type": "YT",
+      "title": "martial arts tricking TIMARNI",
+      "video_id": "b50pdUxC8dw",
+      "thumbnail_url": "https://i.ytimg.com/vi/b50pdUxC8dw/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 88,
+      "video_url": "https://www.youtube.com/watch?v=aHeVkHBr-Pc",
+      "video_type": "YT",
+      "title": "Tricking tuesday night",
+      "video_id": "aHeVkHBr-Pc",
+      "thumbnail_url": "https://i.ytimg.com/vi/aHeVkHBr-Pc/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 80,
+      "video_url": "https://www.youtube.com/watch?v=qcMyjCrhTKg",
+      "video_type": "YT",
+      "title": "0905 martial arts competition 2015 tricking ultimate",
+      "video_id": "qcMyjCrhTKg",
+      "thumbnail_url": "https://i.ytimg.com/vi/qcMyjCrhTKg/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 74,
+      "video_url": "https://www.youtube.com/watch?v=8UFqISou_g4",
+      "video_type": "YT",
+      "title": "martial arts tricking  | (361) 232-5778 | Corpus Christi TX |",
+      "video_id": "8UFqISou_g4",
+      "thumbnail_url": "https://i.ytimg.com/vi/8UFqISou_g4/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 73,
+      "video_url": "https://www.youtube.com/watch?v=s4-Bvpbold4",
+      "video_type": "YT",
+      "title": "0905 martial arts competition 2015 tricking ultimate",
+      "video_id": "s4-Bvpbold4",
+      "thumbnail_url": "https://i.ytimg.com/vi/s4-Bvpbold4/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 76,
+      "video_url": "https://www.youtube.com/watch?v=rm4rr_hRTd0",
+      "video_type": "YT",
+      "title": "Trick University - Athlete Workshop & Instructor Certification | Hyper Trick School by Dan Perez",
+      "video_id": "rm4rr_hRTd0",
+      "thumbnail_url": "https://i.ytimg.com/vi/rm4rr_hRTd0/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 77,
+      "video_url": "https://www.youtube.com/watch?v=ZrT_ctNKvfE",
+      "video_type": "YT",
+      "title": "martial arts 3 year old  (361) 232-5778 | Corpus Christi TX |",
+      "video_id": "ZrT_ctNKvfE",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZrT_ctNKvfE/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 75,
+      "video_url": "https://www.youtube.com/watch?v=SmCDFD5SnH4",
+      "video_type": "YT",
+      "title": "0905 martial arts competition 2015 tricking ultimate",
+      "video_id": "SmCDFD5SnH4",
+      "thumbnail_url": "https://i.ytimg.com/vi/SmCDFD5SnH4/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    },
+    {
+      "id": 79,
+      "video_url": "https://www.youtube.com/watch?v=2nxrRUYPvJ4",
+      "video_type": "YT",
+      "title": "Solomon B. Summer Tricks",
+      "video_id": "2nxrRUYPvJ4",
+      "thumbnail_url": "https://i.ytimg.com/vi/2nxrRUYPvJ4/hqdefault.jpg",
+      "date_added": "2015-09-07"
+    }
+  ]
+}
