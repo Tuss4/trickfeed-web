@@ -1,3 +1,7 @@
+function generateVideoFrame(vUrl) {
+    return "http://www.youtube.com/embed/"+vUrl+"?enablejsapi=1";
+}
+
 var VideoList = React.createClass({
     getInitialState: function() {
         return {data: []};
@@ -19,7 +23,14 @@ var VideoList = React.createClass({
             <div className="videoList">
             <ul>
                 {this.state.data.map(function(video) {
-                    return <li><a href={video.video_url}>{video.title}</a></li>;
+                    var embedUrl = generateVideoFrame(video.video_id);
+                    return (
+                        <li key={video.id}>
+                        <iframe type="text/html" width="640" height="390" src={embedUrl} frameborder="0"></iframe>
+                            <br />
+                            <a href={video.video_url} target="_blank">{video.title}</a>
+                        </li>
+                    );
                 })}
             </ul>
             </div>
